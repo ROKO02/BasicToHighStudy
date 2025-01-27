@@ -1,4 +1,4 @@
-#BasicToHighStudy(python)
+# BasicToHighStudy(python)
 <div>
   <h2>2024.12.26</h2>
   
