@@ -26,15 +26,15 @@
   <div>
     <h2>2024.12.30</h2>
     <h3>프로그래머스 - 수열과 구간 쿼리3</h3>
-    ```python
+  </div>
+  ```python
     def solution(arr, queries):
-    answer = []
-    for k in range(len(queries)):
+      answer = []
+      for k in range(len(queries)):
         i = queries[k][0]
         j = queries[k][1]
         arr[i], arr[j] = arr[j], arr[i]
     ```
-  </div>
   
   <div></div>
   
