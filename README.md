@@ -33,11 +33,6 @@
         i = queries[k][0]
         j = queries[k][1]
         arr[i], arr[j] = arr[j], arr[i]
-    ===========================================
-    def solution(arr, queries):
-    for a,b in queries:
-        arr[a],arr[b]=arr[b],arr[a]
-    return arr
     ```
   </div>
   
